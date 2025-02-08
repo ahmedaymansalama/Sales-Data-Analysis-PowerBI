@@ -3,7 +3,7 @@
 ## Project Overview  
 This project is an **interactive sales analysis dashboard** developed using **Power BI**. It utilizes data from the **AdventureWorks 2022** Sales Data Mart to extract key business insights, helping sales teams and decision-makers understand product performance, customer behavior, and promotional effectiveness.  
 
-## 📊 Sales Data Analysis Dashboard  
+## 📊 Dashboard  
 ![Sales Dashboard](https://github.com/ahmedaymansalama/Sales-Data-Analysis-PowerBI/blob/main/Dashboard.PNG)
 
 ## Key Features  
