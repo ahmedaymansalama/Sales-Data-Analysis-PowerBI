@@ -5,7 +5,7 @@ This project is an **interactive sales analysis dashboard** developed using **Po
 
 ## 📊 Sales Data Analysis Dashboard  
 
-![Sales Dashboard](https://raw.githubusercontent.com/YourUsername/Sales-Data-Analysis-PowerBI/main/Dashboard.PNG)
+![Sales Dashboard](https://github.com/ahmedaymansalama/Sales-Data-Analysis-PowerBI/blob/main/Dashboard.PNG)
 
 ## 🚀 Key Features  
 - **Total Sales & Orders Analysis**  
