@@ -20,5 +20,5 @@ This project is an **interactive sales analysis dashboard** developed using **Po
 
 ## Related Project  
 This dashboard is based on a **Sales Data Mart** I previously built using **AdventureWorks 2022**.  
-Check out the full **Data Mart creation process** here: [https://github.com/ahmedaymansalama/Sales-Data-Mart-ETL]  
+Check out the full **Data Mart creation process** here: https://github.com/ahmedaymansalama/Sales-Data-Mart-ETL 
 
